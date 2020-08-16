@@ -1,0 +1,7 @@
+{
+  "name": "bot-conversor-puppeteer",
+  "dependencies": {
+    "puppeteer": "^5.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
